@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Nicolas Legrand
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,37 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Aarhus University
+  url: "https://www.au.dk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I completed studies in both Philosophy and Applied Mathematics in Grenoble (UPMF). I obtained a Master’s degree in Cognitive science at the University of Lyon 2 where I specialized in Philosophy of Mind, and a second Master's degree in the University of Caen with a specialization in neuropsychology. I completed my PhD on collective memory and memory suppression under the supervision of Francis Eustache and Denis Peschanski (http://nimh.unicaen.fr/fr/accueil/).
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Memory
+- Metacognition
+- Computational Psychiatry
+- Embodied Cognition
+- Physiological Signal Analysis
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Psychology
+    institution: University of Caen
+    year: 2018
+  - course: MSc in Behavioral Sciences
+    institution: University of Caen
+    year: 2014
+  - course: MSc in Cognitive Sciences
+    institution: University of Caen
+    year: 2013
+  - course: BSc in Philosophy
+    institution: Grenoble University
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,24 +49,33 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:nicolas.legrand@cfin.au.dk"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/legrandni
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.fr/citations?user=buFy4tAAAAAJ&hl=fr
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/LegrandNico
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Nicolas_Legrand5
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/3215210/nicolas-legrand/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2651-4929
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "nicolas.legrand@cfin.au.dk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +84,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a postdoctoral fellow in the Embodied Computation Group (https://the-ecg.org) under the supervision of Micah Allen. My researches focus on memory, metacognition and brain-body interactions using brain imaging, computational models and physiological signal analysis. I am the creator and maintainer of Systole (a Python package for cardiac and respiratory signal analysis, https://github.com/embodied-computation-group/systole), Cardioception (a Python package for measuring interoceptive metacognition) and metadPy (a Python package based on pymc3 to fit Hierarchical Bayesian models of confidence ratings, https://github.com/LegrandNico/metadPy).
