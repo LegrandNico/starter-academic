@@ -54,10 +54,10 @@ social:
     link: https://scholar.google.fr/citations?user=buFy4tAAAAAJ&hl=fr
   - icon: github
     icon_pack: fab
-    link: https://github.com/LegrandNico
+    link: https://github.com/LegrandNico/
   - icon: researchgate
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Nicolas_Legrand5
+    link: https://www.researchgate.net/profile/Nicolas_Legrand5/
   - icon: publons
     icon_pack: ai
     link: https://publons.com/researcher/3215210/nicolas-legrand/
@@ -76,11 +76,6 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "nicolas.legrand@cfin.au.dk"
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
 ---
 
 I am a postdoctoral fellow in the Embodied Computation Group (https://the-ecg.org) under the supervision of Micah Allen. My researches focus on memory, metacognition and brain-body interactions using brain imaging, computational models and physiological signal analysis. I am the creator and maintainer of Systole (a Python package for cardiac and respiratory signal analysis, https://github.com/embodied-computation-group/systole), Cardioception (a Python package for measuring interoceptive metacognition) and metadPy (a Python package based on pymc3 to fit Hierarchical Bayesian models of confidence ratings, https://github.com/LegrandNico/metadPy).
