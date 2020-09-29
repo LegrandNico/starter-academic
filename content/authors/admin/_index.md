@@ -45,7 +45,7 @@ education:
 social:
   - icon: osf
     icon_pack: ai
-    link: osf.io/st7bm
+    link: https://osf.io/st7bm/
   - icon: envelope
     icon_pack: fas
     link: "mailto:nicolas.legrand@cfin.au.dk"
