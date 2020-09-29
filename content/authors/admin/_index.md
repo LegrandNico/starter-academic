@@ -75,11 +75,8 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "nicolas.legrand@cfin.au.dk"
-
 ---
 
-I am a postdoctoral fellow in the [Embodied Computation Group](https://the-ecg.org) under the supervision of Micah Allen. My researches focus on memory, metacognition and brain-body interactions using brain imaging, computational models and physiological signal analysis. I am the creator and maintainer of several open source Python libraries: [Systole](https://github.com/embodied-computation-group/systole) (cardiac and respiratory signal analysis), Cardioception (Measuring interoceptive performance with Psychopy) and [metadPy](https://github.com/LegrandNico/metadPy) (fitting Hierarchical Bayesian models of confidence ratings using pymc3).
+I am a postdoctoral fellow in the [Embodied Computation Group](https://the-ecg.org) under the supervision of Micah Allen. My researches focus on memory, metacognition and brain-body interactions using brain imaging, computational models and physiological signal analysis.
 
-### Biography
-
-I completed studies in both Philosophy and Applied Mathematics in Grenoble (UPMF). I obtained a Master’s degree in Cognitive science at the University of Lyon 2 where I specialized in Philosophy of Mind, and a second Master's degree in the University of Caen with a specialization in neuropsychology. I defended in 2018 my PhD on collective memory and memory suppression under the supervision of Francis Eustache and Denis Peschanski (http://nimh.unicaen.fr/fr/accueil/).
+I am the creator of several open source Python libraries: [Systole](https://github.com/embodied-computation-group/systole) (cardiac and respiratory signal analysis), Cardioception (Measuring interoceptive performance with Psychopy) and [metadPy](https://github.com/LegrandNico/metadPy) (fitting Hierarchical Bayesian models of confidence ratings using PyMC3).
